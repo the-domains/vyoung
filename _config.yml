@@ -1,14 +1,29 @@
+name: vyoung
+favicon: null
 layout_spectrum: 0.0993555
+typography_spectrum: 0.8917444
+title: My iPhoto grid
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4947637
-  lightness: 0.5894705
-  brandStrength: 0.4706552
-  rhythmicContrast: 0.5409964
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-typography_spectrum: 0.8917444
-name: vyoung
+  brandStrength: 0.4706552
+  lightness: 0.5894705
+  saturation: 0.4947637
+  rhythmicContrast: 0.5409964
+purpose: []
