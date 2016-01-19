@@ -1,6 +1,6 @@
 name: vyoung
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75142
 typography_spectrum: 0.8917444
 title: My iPhoto grid
 cta:
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.4706552
-  lightness: 0.5894705
-  saturation: 0.4947637
-  rhythmicContrast: 0.5409964
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
